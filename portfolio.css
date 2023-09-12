@@ -1,0 +1,63 @@
+body{
+
+    background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/1400/04d53f80577741.5cf8b5c84827c.gif);
+
+    background-size: 100% , 100%;
+}
+
+h1{
+
+    color: rgb(255, 255, 255);
+
+    
+}
+
+h2{
+
+ color: rgb(255, 255, 255);
+
+}
+
+h3{
+    color: rgb(255, 255, 255);
+
+
+}
+
+p{
+ 
+ color: rgb(255, 255, 255);
+}
+
+button{
+
+    background-color: aqua;
+}
+
+footer{
+
+    color: rgb(34, 86, 86);
+}
+
+li { color: aliceblue;
+ font-family: monospace;
+    
+}
+
+h3{
+
+    text-align: right;
+}
+
+h4{
+
+    color: aliceblue;
+}
+
+a:hover{
+
+    color: rgb(1, 13, 13);
+}
+a: link{
+    color: blue;
+}
